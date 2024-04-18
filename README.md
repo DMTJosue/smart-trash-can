@@ -19,6 +19,11 @@ $ cd smart-trash-can
 
 > Install Streamlit, all dependancies  and start the app
 
+```bash
+$ pip install -r requirements.txt
+$ streamlit run app.py
+```
+
 At this point, the app runs at `http://localhost:8501`. 
 
 <br />
