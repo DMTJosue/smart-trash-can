@@ -5,6 +5,7 @@ Poubelle Intelligente
 At this point at `https://www.kaggle.com/datasets/techsash/waste-classification-data/data`. 
 
 <br />
+
 ## ✨ How to use it
 
 > Download the code 
