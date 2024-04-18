@@ -23,5 +23,5 @@ At this point, the app runs at `http://localhost:8501`.
 
 <br />
 
-## 👀 Preview the website at 
+## 👀 Preview at https://smart-trash-can.streamlit.app/
 
