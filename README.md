@@ -1,7 +1,7 @@
 # smart-trash-can
 Poubelle Intelligente
 
-## ✨ Dataset : Waste Classification Data
+## ✨ Dataset : Waste Classification Data @https://github.com/Kaggle
 At this point at `https://www.kaggle.com/datasets/techsash/waste-classification-data/data`. 
 
 <br />
